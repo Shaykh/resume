@@ -1,12 +1,12 @@
 # Diaby Cheick Mahomed Lamine
-  ## Web Developper since 2010
-      ### Languages Used
+  # -> Web Developper since 2010
+      ## Languages Used :
         -C# 
         -VB.Net
         -JavaScript
         -HTML
         -CSS
-      ### Framework Used
+      ## Framework Used :
         -DotNet
         -Asp.net
         -Asp.Net MVC
@@ -15,8 +15,8 @@
         -JQuery
         -AngularJS
         -KnockoutJS
-  ## Mobile Developper since 2014
-      ### Languages Used
+  # -> Mobile Developper since 2014
+      # Languages Used
         -Java
         -XML
       
