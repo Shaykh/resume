@@ -6,6 +6,7 @@
 * JavaScript
 * HTML
 * CSS
+
 ### Framework Used :
 * DotNet
 * Asp.net
@@ -15,6 +16,8 @@
 * JQuery
 * AngularJS
 * KnockoutJS
+
+
 ##  Mobile Developper since 2014
 ### Languages Used
 * Java for Android
