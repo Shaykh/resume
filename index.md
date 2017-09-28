@@ -7,6 +7,7 @@
 * HTML
 * CSS
 
+
 ### Framework Used :
 * DotNet
 * Asp.net
@@ -19,7 +20,7 @@
 
 
 ##  Mobile Developper since 2014
-### Languages Used
+### Languages Used :
 * Java for Android
 * XML
       
