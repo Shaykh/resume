@@ -7,6 +7,8 @@
 ## Languages Used :
 * C# 
 * VB.Net
+* Python
+* PHP
 * JavaScript
 * HTML
 * CSS
@@ -18,6 +20,8 @@
 * Asp.Net MVC
 * Asp.Net Web API
 * Asp.Net Signal R
+* Django
+* Symfony2
 * JQuery
 * AngularJS
 * KnockoutJS
