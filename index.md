@@ -33,6 +33,6 @@
 
 ## Software Develoment Methods
 - **Agile** practices : 
-  - **Pair Programming
-  - **Code Review
+  - **Pair Programming**
+  - **Code Review**
 - Development cycle based on **SCRUM** methods
