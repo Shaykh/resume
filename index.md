@@ -4,31 +4,35 @@
 
 
 # Web Developper since 2010
-## Languages Used :
-* C# 
-* VB.Net
-* Python
-* PHP
-* JavaScript
-* HTML
-* CSS
+## Practiced Languages :
+* **C#** : Experimented
+* **HTML** : Experimented
+* **JavaScript** : Confirmed
+* **CSS** : Confirmed
+* **Java** : Confirmed
+* **Python** : Familiar
 
 
-## Framework Used :
-* DotNet
-* Asp.net
-* Asp.Net MVC
-* Asp.Net Web API
-* Asp.Net Signal R
-* Django
-* Symfony2
-* JQuery
-* AngularJS
-* KnockoutJS
+## Practiced Framework :
+* **DotNet** : Experimented
+* **Asp.net Webforms** : Experimented
+* **Asp.Net MVC** : Experimented
+* **Asp.Net Web API** : Confirmed
+* **Angular 2+** : Confirmed
+* **AngularJS** : Confirmed
+* **JQuery** : Confirmed
+* **Android SDK** : Confirmed
+* **Ionic Cordova** : Familiar
+* **JEE** : Familiar
+* **Struts** : Familiar
 
 
-#  Mobile Developper since 2014
-## Languages Used :
-* Java for Android
-* XML
-      
+## Source Version Control Tools
+- **Git
+- **SVN
+
+## Software Develoment Methods
+- **Agile** practices : 
+  - **Pair Programming**
+  - **Code Review**
+- Development cycle based on **SCRUM** methods
